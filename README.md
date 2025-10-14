@@ -101,3 +101,6 @@ INPUT_SOURCE = 0 if VIDEO_PATH is None else VIDEO_PATH
 
 ---
 
+### Demo video
+Both the demo video and the video used in the demo can be found at this link:
+- https://drive.google.com/drive/folders/1puIjROW2Rsw23dBPtFqzkRba2mCDp7M3
